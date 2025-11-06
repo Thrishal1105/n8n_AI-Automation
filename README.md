@@ -1,1 +1,1 @@
-# n8n_AI-Automation
+# n8n_AI_Automation
